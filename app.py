@@ -1,5 +1,5 @@
 # Developed by:
-# Morgun Vlada - 70%, Lastname Name - 30%
+# Morgun Vlada - 65%, Gevorgyan Alla - 35%
 print('Здравствуйте! Хотите узнать свой годовой налог?(Y/N)')
 answer = input()
 if answer == 'N':
